@@ -1,37 +1,36 @@
 export const projectData = [
-	{
-		id: 1,
-		title: 'Todo List App',
-		description:
-			'A simple Todo List App built with JavaScript. All datas are stored in localstorage. It helps users check list out their plans and tick as they do them.',
-		gitHubLink: 'https://github.com/olawanlejoel/Todo-List-App',
-	},
-	{
-		id: 2,
-		title: 'Books Library App',
-		description:
-			'A simple Book Library App built with JavaScript. It helps readers have a good list of books they are eiter currently reading or have finished reading.',
-		gitHubLink: 'https://github.com/olawanlejoel/Book-Library',
-	},
-	{
-		id: 3,
-		title: 'Quotes Generator',
-		description:
-			'Helps you generates quotes from about 1600 quotes written by different authors . Quotes are automatically copied to your clipboards.',
-		gitHubLink: 'https://github.com/olawanlejoel/random-quote-generator',
-	},
-	{
-		id: 4,
-		title: 'Password Generator',
-		description:
-			'Helps you generates random passwords, you can select what you want your password to entail and also you can copy generated password to clipboard.',
-		gitHubLink: 'https://github.com/olawanlejoel/Password-Generator',
-	},
-	{
-		id: 5,
-		title: 'Twitter UI Clone',
-		description:
-			'Simple Twitter UI clone built with TailwindCSS and Vue Js. This covers only the home page of Twitter UI. This is cool to get started with TailwindCSS as it helps understand basic concepts.',
-		gitHubLink: 'https://github.com/olawanlejoel/TwitterUI-clone',
-	},
+  {
+    id: 1,
+    title: "2048 Game",
+    description: "Implemented in C++ in CLI.",
+    gitHubLink: "https://github.com/R4333/1024-CLI",
+  },
+  {
+    id: 2,
+    title: "Traffic Simulator",
+    description:
+      "Implemented using C++, SFML and ImGui. •Tile based game with editor to allow users to create traffic routes and map. •Simulated traffic signals and all the mechanics associated with them. •Implemented path finding using A* algorithm. •Implemented viewport from scratch with scaling of the screen when zoomed in or out of the map.",
+    gitHubLink: "https://github.com/R4333/trafsim",
+  },
+  {
+    id: 3,
+    title: "Process Scheduling Simulation.",
+    description:
+      "Implemented in pure JS, HTML and CSS. Uses Bootstrap and Chart.js libraries. Draws a Gantt Chart of the scheduling. Implemented for Rate Monotonic, and Earliest Deadline First Algorithms.",
+    gitHubLink: "https://github.com/R4333/Process-Scheduling-Simulation.",
+  },
+  {
+    id: 4,
+    title: "Password Generator",
+    description:
+      "Helps you generates random passwords, you can select what you want your password to entail and also you can copy generated password to clipboard.",
+    gitHubLink: "https://github.com/olawanlejoel/Password-Generator",
+  },
+  {
+    id: 5,
+    title: "MagarMunch",
+    description:
+      "An Online Food Ordering and Delivery System for Restaurants. Implemented using various web technologies. Uses NEXT.JS with REACT components for Restaurant Website. Uses vanilla HTML, CSS and JS for admin panel. Uses MSSQL as backend database. Backend implemented using Node.js and ExpressJS. Backend uses a REST API using ExpressJS to interface between DB and frontend.",
+    gitHubLink: "https://github.com/R4333/MagarMunch",
+  },
 ];
